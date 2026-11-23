@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/adelante.png</file>
+        <file>icons/arriba.png</file>
+        <file>icons/atras.png</file>
+        <file>icons/cerrar.png</file>
+        <file>icons/configuracion.png</file>
+        <file>icons/copiar.png</file>
+        <file>icons/cortar.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/escribir.png</file>
+        <file>icons/StellarExplorer.png</file>
+        <file>icons/new_folde.png</file>
+        <file>icons/new_tab.png</file>
+        <file>icons/pegar.png</file>
+        <file>icons/refrescar.png</file>
+        <file>icons/renombrar.png</file>
+    </qresource>
+</RCC>
